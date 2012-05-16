@@ -1,8 +1,11 @@
 
 public class cacac {
-	//fasknflasnfla
-	
-	//sfasfasa
-	//
-	//asnlfjanflnaln
+
+	/**
+	 * 
+	 * @param args moji argovi
+	 */
+	public static void main(String[] args){
+		
+	}
 }
